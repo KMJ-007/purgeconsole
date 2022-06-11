@@ -1,11 +1,34 @@
 {
-  "name": "purgeconsole",
+  "name": "purgeConsole",
   "displayName": "purgeConsole",
   "description": "get rid of all console log in one click",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "KaranJanthe",
+  "author": "Karan Janthe <karanjanthe@gmail.com>",
+  "icon": "https://cloud-7v90suogh-hack-club-bot.vercel.app/0img-20220611-wa0004.jpg",
+  "bugs": {
+    "url": "https://github.com/KMJ-007/purgeConsole-VsCodeExtension/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KMJ-007/purgeConsole-VsCodeExtension"
+  },
+  "homepage": "https://github.com/KMJ-007/purgeConsole-VsCodeExtension",
   "engines": {
     "vscode": "^1.68.0"
   },
+  "keywords": [
+    "console",
+    "console.log",
+    "console.log()",
+    "replace console",
+    "replace console log",
+    "remove console log",
+    "javascript",
+    "typescript",
+    "comment",
+    "comment console log"
+  ],
   "categories": [
     "Other"
   ],
