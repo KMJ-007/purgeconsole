@@ -20,6 +20,5 @@ Run ``` Comment All console ``` or ``` Remove All console```in the command palet
 
 ![img](img/look%20who%20is%20purging.png)
 
----
 ## Made by [Karan](https://twitter.com/KaranJanthe) with ❤️
 
