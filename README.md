@@ -22,4 +22,3 @@ Run ``` Comment All console ``` or ``` Remove All console```in the command palet
 ---
 ## Made by [Karan](https://twitter.com/KaranJanthe) with ❤️
 
-vggdfnormfs4l62hktechdeq54q6qnfs4mjsqjwfccep7v5eeqlq
