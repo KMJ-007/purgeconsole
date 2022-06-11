@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "publisher": "KaranJanthe",
   "author": "Karan Janthe <karanjanthe@gmail.com>",
-  "icon": "https://cloud-7v90suogh-hack-club-bot.vercel.app/0img-20220611-wa0004.jpg",
+  "icon": "icon.png",
   "bugs": {
     "url": "https://github.com/KMJ-007/purgeConsole-VsCodeExtension/issues"
   },
