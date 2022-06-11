@@ -16,7 +16,7 @@ type ``` >```
 
 Run ``` Comment All console ``` or ``` Remove All console``` in the command palette by hitting enter and see the magic 🪄.
 
-![video](https://www.loom.com/share/9588c1ba6d844ff0a2f970f2d000fbfe)
+![video](img/demoVideo.gif)
 
 ![img](img/look%20who%20is%20purging.png)
 
