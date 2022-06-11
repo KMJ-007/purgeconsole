@@ -2,7 +2,7 @@
   "name": "purgeConsole",
   "displayName": "purgeConsole",
   "description": "get rid of all console log in one click",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "KaranJanthe",
   "author": "Karan Janthe <karanjanthe@gmail.com>",
   "icon": "icon.png",

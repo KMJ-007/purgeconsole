@@ -8,3 +8,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 - 1.0.1 : updated Reamde
+- 1.0.2 : updated ext install KaranJanthe.purgeConsole in readme
