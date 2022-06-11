@@ -6,7 +6,7 @@ then you will love this extension 💝
 
 ## Installation  
 
-Run ``` ext install ``` purgeConsole in the command palette.
+Run ``` ext install purgeConsole``` purgeConsole in the command palette.
 
 ## Usage 
 
