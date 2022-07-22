@@ -10,3 +10,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - 1.0.1 : updated Reamde
 - 1.0.2 : updated ext install KaranJanthe.purgeConsole in readme
 - 1.0.3 : it now support's more console methods
+- 1.0.4 : it now supports console with and without content also
