@@ -15,6 +15,14 @@ Open command palette with ``` command/ctrl + p```
 type ``` >``` 
 
 Run ``` Comment All console ``` or ``` Remove All console``` in the command palette by hitting enter and see the magic 🪄.
+### update:
+It now supports other console method also:
+- console.log,
+- console.table
+- console.time
+- console.timeLog
+- console.timeEnd
+
 
 ![video](img/demoVideo.gif)
 
