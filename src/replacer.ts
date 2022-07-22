@@ -9,7 +9,7 @@ const replacer= (textEditor:vscode.TextEditor,remove:boolean,whatToRemove:String
     if(remove){
       replacer =""
     }else{
-      replacer=`//console.${consoleVariable}$1`.toString();
+      replacer=`//console.${consoleVariable}($1)`.toString();
     }
     //for calculating range
     const firstLine = 0;
@@ -21,7 +21,7 @@ const replacer= (textEditor:vscode.TextEditor,remove:boolean,whatToRemove:String
     const lastChar = lastLineRef.range.end.character;
    
     const replacedDocument = text.replace(
-      new RegExp(`console\.${consoleVariable}\(([^)]+)\)+`, 'g'),
+      new RegExp(`console\\.${consoleVariable}\\(([^)]+)\\)+`, 'g'),
       replacer
     );
     const textRange = new vscode.Range(
