@@ -9,7 +9,7 @@ const replacer= (textEditor:vscode.TextEditor,remove:boolean,whatToRemove:String
     if(remove){
       replacer =""
     }else{
-      replacer=`//console.${consoleVariable}($1)`.toString();
+      replacer=`/*console.${consoleVariable}($1)*/`.toString();
     }
     //for calculating range
     const firstLine = 0;
